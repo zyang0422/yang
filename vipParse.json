@@ -1,22 +1,46 @@
 {
-  "data": [
+  “数据”：[
     {
-      "id": 19,
-      "name": "parwix解析",
-      "ad": "no",
-      "url": "https://vip.parwix.com:4433/player/?url="
+      “身份证”：19，
+      "name" : " parwix解析" ,
+      “广告”：“没有”，
+      “网址”：“https://vip.parwix.com:4433/player/?url=”
     },
     {
-      "id": 19,
-      "name": "七夕解析",
-      "ad": "no",
-      "url": "https://1.api.80tvs.cn/?url="
+      “身份证”：19，
+      "name" : "七夕解析" ,
+      “广告”：“没有”，
+      “网址”：“https://1.api.80tvs.cn/?url=”
     },
     {
-      "id": 19,
-      "name": "虾米解析",
-      "ad": "no",
-      "url": "https://jx.xmflv.com/?url="
+      “身份证”：19，
+      "name" : "虾米解析" ,
+      “广告”：“没有”，
+      “网址”：“https://jx.xmflv.com/?url=”
+    },
+    {
+      “身份证”：19，
+      "name" : "不知名" ,
+      “广告”：“没有”，
+      “网址”：“https://jx.jjlrc.com/player/ilingku_json.php?url=”
+    },
+    {
+      “身份证”：19，
+      "name" : "不知名" ,
+      “广告”：“没有”，
+      “网址”：“https://json.iopenyun.com:33/cms_m3u8_api.php?url=”
+    },
+    {
+      “身份证”：19，
+      "name" : "盘古" ,
+      “广告”：“没有”，
+      “网址”：“https://panguapi.ntryjd.net/yun/api.php?url=”
+    },
+    {
+      “身份证”：19，
+      "name" : "红牛" ,
+      “广告”：“没有”，
+      “网址”：“https://www.tutukiki.com/m3u8/?url=”
     }
   ]
 }
