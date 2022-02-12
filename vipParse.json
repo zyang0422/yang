@@ -13,34 +13,34 @@
       “网址”：“https://1.api.80tvs.cn/?url=”
     },
     {
-      “身份证”：19，
+      “id”：19，
       "name" : "虾米解析" ,
-      “广告”：“没有”，
-      “网址”：“https://jx.xmflv.com/?url=”
+      “ad”：“no”，
+      “url”：“https://jx.xmflv.com/?url=”
     },
     {
-      “身份证”：19，
+      “id”：19，
       "name" : "不知名" ,
-      “广告”：“没有”，
-      “网址”：“https://jx.jjlrc.com/player/ilingku_json.php?url=”
+      “ad”：“no”，
+      “url”：“https://jx.jjlrc.com/player/ilingku_json.php?url=”
     },
     {
-      “身份证”：19，
+      “id”：19，
       "name" : "不知名" ,
-      “广告”：“没有”，
-      “网址”：“https://json.iopenyun.com:33/cms_m3u8_api.php?url=”
+      “ad”：“no”，
+      “url”：“https://json.iopenyun.com:33/cms_m3u8_api.php?url=”
     },
     {
-      “身份证”：19，
+      “id”：19，
       "name" : "盘古" ,
-      “广告”：“没有”，
-      “网址”：“https://panguapi.ntryjd.net/yun/api.php?url=”
+      “ad”：“no”，
+      “url”：“https://panguapi.ntryjd.net/yun/api.php?url=”
     },
     {
-      “身份证”：19，
+      “id”：19，
       "name" : "红牛" ,
-      “广告”：“没有”，
-      “网址”：“https://www.tutukiki.com/m3u8/?url=”
+      “ad”：“no”，
+      “url”：“https://www.tutukiki.com/m3u8/?url=”
     }
   ]
 }
